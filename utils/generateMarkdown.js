@@ -19,7 +19,12 @@ function generateMarkdown(data) {
 
   ## Usage
   ${data.usage}
+
+  ## License
+  This project is licensed under the ${data.license} license.
   
+  ## Contributing
+  ${data.contributing}
 `;
 }
 
