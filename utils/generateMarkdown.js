@@ -14,6 +14,8 @@ function generateMarkdown(data) {
   - [Tests](#tests)
   - [Questions](#questions)
 
+  ## Installation
+  ${data.installation}
 `;
 }
 
