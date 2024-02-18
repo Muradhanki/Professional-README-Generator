@@ -25,6 +25,13 @@ function generateMarkdown(data) {
   
   ## Contributing
   ${data.contributing}
+
+  ## Tests
+  ${data.tests}
+
+  ## Questions
+  For questions, please contact me at ${data.email}.
+  GitHub: [${data.github}](https://github.com/${data.github})
 `;
 }
 
