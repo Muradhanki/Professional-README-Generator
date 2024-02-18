@@ -1,13 +1,23 @@
 {
-  "name": "static-site",
+  "name": "Professional-README-Generator",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muradhanki/Professional-README-Generator.git"
+  }
+  
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Muradhanki/Professional-README-Generator/issues"
+  },
+  "homepage": "https://github.com/Muradhanki/Professional-README-Generator#readme",
   "dependencies": {
     "inquirer": "^6.3.1"
   }
