@@ -16,6 +16,10 @@ function generateMarkdown(data) {
 
   ## Installation
   ${data.installation}
+
+  ## Usage
+  ${data.usage}
+  
 `;
 }
 
