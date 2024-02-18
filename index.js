@@ -15,6 +15,16 @@ const questions = [
         name: 'description',
         message: 'Provide brief description of your project.',
     },
+    {
+        type: 'input',
+        name: 'installation',
+        message: 'How can someone install and set up your project?',
+    },
+    {
+        type: 'input',
+        name: 'usage',
+        message: 'Explain how to use your application.',
+    },
 
 ];
 
