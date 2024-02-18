@@ -25,6 +25,16 @@ const questions = [
         name: 'usage',
         message: 'Explain how to use your application.',
     },
+    {
+        type: 'input',
+        name: 'contributing',
+        message: 'How can other developers contribute to your project?',
+    },
+    {
+        type: 'input',
+        name: 'tests',
+        message: 'How can your project be tested?',
+    },
 
 ];
 
