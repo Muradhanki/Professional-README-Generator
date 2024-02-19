@@ -52,9 +52,9 @@ The app contains the following requirements:
 
 The following image shows the web application's appearance and functionality:
 
-![Take me through video of the application.](https://drive.google.com/file/d/1dYPQOcV517AZ3JDGw7tLGHP0ZepJbPeG/view)
+![Take me through video of the application, Gdrive.](https://drive.google.com/file/d/1dYPQOcV517AZ3JDGw7tLGHP0ZepJbPeG/view)
 
-![Take me through video of the application.](https://github.com/Muradhanki/Professional-README-Generator/blob/main/images/Readme_guide.webm)
+![Take me through video of the application, click to download the video.](https://github.com/Muradhanki/Professional-README-Generator/blob/main/images/Readme_guide.webm)
 
 To get to weather dashboard on the web application, follow these simple steps please.
 
