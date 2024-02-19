@@ -54,17 +54,21 @@ The following image shows the web application's appearance and functionality:
 
 To get to weather dashboard on the web application, follow these simple steps please.
 
-* Step 1: go to   (https://muradhanki.github.io/Weather-Dashboard/) with your favorite web borwser .
+* Step 1: go to   (https://github.com/Muradhanki/Professional-README-Generator) with your favorite web borwser .
 
-![Screenshot](https://github.com/Muradhanki/Weather-Dashboard/blob/main/assets/images/Main%20screen.jpg "Web application Screen Shot")
+![Screenshot](https://github.com/Muradhanki/Professional-README-Generator/blob/main/images/terminal%20screenshot.jpg "Web application Screen Shot")
 
-* Step 2: Insert the desired city name to the search bar.
+* Step 2: Git clone the repository to tyour locak storage.
 
-![Screenshot](https://github.com/Muradhanki/Weather-Dashboard/blob/main/assets/images/Main%20screen.jpg "Web application Screen Shot")
+![Screenshot](https://github.com/Muradhanki/Professional-README-Generator/blob/main/images/terminal%20screenshot.jpg "Web application Screen Shot")
 
-* Step 3: CLick on search button to see the results.
+* Step 3: Open the cloned repo with VS Code to inser "node index.js" in to your terminal to startup the code.
 
-![Screenshot](https://github.com/Muradhanki/Weather-Dashboard/blob/main/assets/images/Main%20screen.jpg "Web application Screen Shot")
+![Screenshot](https://github.com/Muradhanki/Professional-README-Generator/blob/main/images/terminal%20screenshot.jpg "Web application Screen Shot")
+
+* Step 4: Insert your desired answers tot he required lines to create a professional Readme file.
+
+![Screenshot](https://github.com/Muradhanki/Professional-README-Generator/blob/main/images/terminal%20screenshot.jpg "Web application Screen Shot")
 
 
 
