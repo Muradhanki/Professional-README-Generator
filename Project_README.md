@@ -92,7 +92,7 @@ To get a local copy up and running follow these simple example steps.
 1. Fire up your GitBash console and copy the line below
 
 2. 
-git clone git@github.com:Muradhanki/Weather-Dashboard.git
+git clone git@github.com:Muradhanki/Professional-README-Generator.git
 
 ![Screenshot](https://github.com/Muradhanki/Weather-Dashboard/blob/main/assets/images/git%20bash%20screen%20grab.jpg "Git Bash Installation")
 
