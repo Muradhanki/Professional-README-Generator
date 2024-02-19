@@ -1,8 +1,8 @@
-# trial
+# Professional Readme file generator
 
 
   ## Description
-  asdsd
+  Javascript code that generates professional Readme file
 
   ## Table of Contents
   - [Installation](#installation)
@@ -13,20 +13,20 @@
   - [Questions](#questions)
 
   ## Installation
-  dsdsds
+  via github.
 
   ## Usage
-  dsdsd
+  Insert node index.js on to the Terminal and insert desired data in to the corresponding areas.
 
   ## License
   This project is licensed under the MIT license.
   
   ## Contributing
-  dsdds
+  By contacting with the owner.
 
   ## Tests
-  dsddsd
+  This project can be tested via getting a github clone and using a bash terminal.
 
   ## Questions
-  For questions, please contact me at dsdsds.
-  GitHub: [dsdsd](https://github.com/dsdsd)
+  For questions, please contact me at Author can be reached from the github messages..
+  GitHub: [Muradhanki](https://github.com/Muradhanki)
