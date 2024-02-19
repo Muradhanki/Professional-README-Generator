@@ -59,7 +59,7 @@ function writeToFile(fileName, data) {
 
     fs.writeFile(fileName, data, (err) => {
         if (err) throw err;
-        console.log('SAMPLE_README.md has been generated!');
+        console.log('README.md has been generated!');
       });
 }
 
@@ -68,23 +68,11 @@ function init() {
     inquirer.prompt(questions)
     .then((answers) => {
       const markdownContent = generateMarkdown(answers);
-      writeToFile('SAMPLE_README.md', markdownContent);
+      writeToFile('README.md', markdownContent);
     });
 
 }
 
 // function call to initialize program
 init()
-.then(readmeData => {
-    console.log(readmeData);
-    return generateMarkdown(readmeData);
-})
-.then(pageMD => {
-    return writeFile(pageMD);
-})
-.then(writeFileResponse => {
-    console.log(writeFileResponse.message);
-})
-.catch(err => {
-    console.log(err);
-})
+
